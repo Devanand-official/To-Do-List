@@ -6,7 +6,7 @@ All tasks are saved in your browser using **LocalStorage**, so your list remains
 ### 🚀 Live Demo
 https://devanand.is-a.dev/to-do-list/
 
-### 🔧 Features:
+### 🔧 Features: 
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
