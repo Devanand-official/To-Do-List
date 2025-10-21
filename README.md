@@ -4,7 +4,7 @@ A simple and user-friendly To-Do List application where you can add, delete, and
 All tasks are saved in your browser using **LocalStorage**, so your list remains intact even after refreshing the page.
 
 ### 🚀 Live Demo
-https://devanand.is-a.dev/to-do-list/
+🌐 https://devanand.is-a.dev/to-do-list/
 
 ### 🔧 Features: 
 - Add new tasks
